@@ -1,6 +1,6 @@
 import React from "react";
 import { inkyText } from "../assets";
-import InformationArchitecture from "./InformationArchitecture";
+import InformationArchitecture from "./WebDev";
 import InteractionDesign from "./InteractionDesign";
 import UserCentricDesign from "./UserCentricDesign";
 import SkillsGroup from "./SkillsGroup";

@@ -13,5 +13,6 @@ import user from "./3d-fluency-person.png"
 import pencilAndRuler from "./3d-fluency-pencil-and-ruler.png"
 import layers from "./3d-fluency-layers.png"
 import inkyText from "./inky-text-2.png"
+import alan_turing_img from "./1-Figure2-1-removebg-preview.png"
 
-export { main_image, circle, curvedArrow, graphEmoji, paintingBrush, blueSquiggle, underlines, abstractIllustration, aboutPageImage1, curvedLine, quotationMark, user, pencilAndRuler, layers, inkyText }
+export { alan_turing_img ,main_image, circle, curvedArrow, graphEmoji, paintingBrush, blueSquiggle, underlines, abstractIllustration, aboutPageImage1, curvedLine, quotationMark, user, pencilAndRuler, layers, inkyText }
